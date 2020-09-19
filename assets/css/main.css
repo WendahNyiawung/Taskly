@@ -3,3 +3,10 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.logo-font{
+    font-family: 'Kufam', cursive;
+}
+.bg-col{
+    background-color: #F2F5F9;
+}
