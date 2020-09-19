@@ -1,0 +1,14 @@
+{
+  "name": "taskly",
+  "version": "1.0.0",
+  "description": "A task manager web app just like trello lets say a trello clone build with html Tailwindcss and some Javascript",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss build assets/css/main.css -o assets/css/style.css"
+  },
+  "author": "Wendah Desmond",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
